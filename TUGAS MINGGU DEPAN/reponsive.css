@@ -1,0 +1,14 @@
+@media screen and (max-width : 450px) {
+    .featured-name{
+        font-size: 40px;
+    }
+}
+.projeck-box{
+    width: 100%;
+}
+.from-inputs{
+    flex-direction: column;
+}
+.input-field{
+    width: 100%;
+}
